@@ -72,6 +72,9 @@ Features: Temperature, Relative Humidity, Wind Speed, Rain.
 
 Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, imbalanced-learn (SMOTE)
 
+## Project Code
+https://github.com/TheMlengineer-py/Forest-Fire-Detection-ML-System
+
 ## Citation
 
 If you reference this work, please cite:
