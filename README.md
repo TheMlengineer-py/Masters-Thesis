@@ -4,6 +4,7 @@ MSc thesis submitted in partial fulfilment of the requirements for the degree of
 MSc Artificial Intelligence and Data Science, University of Hull.
 
 Author: Oyeyemi Dayo Tosin
+Year:   2022
 
 ## Abstract
 
